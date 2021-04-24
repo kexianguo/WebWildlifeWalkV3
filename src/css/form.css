@@ -1,0 +1,12 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.red {
+  color: red;
+}
+.required {
+  color: red;
+}
+.width500 {
+  width: 500px;
+}
